@@ -10,7 +10,6 @@ import org.springframework.context.annotation.Bean;
 import java.util.HashSet;
 
 @SpringBootApplication
-@RequiredArgsConstructor
 public class CinemaApplication {
 
 

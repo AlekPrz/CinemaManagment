@@ -17,6 +17,7 @@ import java.util.Set;
 @NoArgsConstructor
 @SuperBuilder
 @Entity
+@Data
 @Table(name = "cinemas")
 public class Cinema extends BaseEntity {
 
